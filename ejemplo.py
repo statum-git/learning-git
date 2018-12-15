@@ -21,8 +21,8 @@ def jose_navarro():
 
 def andy_torres():
     # esta funcion debe retornar 25 para estar lista
-    g = 1
-    h = 2
+    g = 20
+    h = 5
     return g + h
 
 if oscar_carrasco() == 10:

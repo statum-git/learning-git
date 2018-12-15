@@ -15,7 +15,7 @@ def jose_gregorio():
 def jose_navarro():
     # esto lo editara Jose Gregorio
     # esta funcion debe retornar 5 para estar lista
-    e = 1
+    e = 3
     f = 2
     return e + f
 

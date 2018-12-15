@@ -1,8 +1,8 @@
 def oscar_carrasco():
     # esto lo editara Oscar Carrasco
     # esta funcion debe retornar 10 para estar lista
-    a = 1
-    b = 2
+    a = 5
+    b = 5
     return a + b
 
 def jose_gregorio():
@@ -15,7 +15,7 @@ def jose_gregorio():
 def jose_navarro():
     # esto lo editara Jose Gregorio
     # esta funcion debe retornar 5 para estar lista
-    e = 1
+    e = 3
     f = 2
     return e + f
 
